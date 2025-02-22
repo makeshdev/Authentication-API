@@ -6,7 +6,7 @@ This project is a user authentication system built using Node.js, Express.js, an
 
 ### 📌Features
 
-- User Registration (with password hashing using bcrypt)
+- User Registration (with password hashing using bcrypt )
 - User Login (with JWT token generation)
 - JWT Authentication Middleware (to protect routes)
 - User Information Retrieval (protected route)
